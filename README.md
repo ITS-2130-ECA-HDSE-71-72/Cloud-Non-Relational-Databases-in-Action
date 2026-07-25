@@ -19,7 +19,7 @@ AWS DocumentDB, Azure Cosmos DB for MongoDB), making the application fully cloud
 ## Tech Stack
 
 - **Java 25**
-- **Spring Boot 4.0.3**
+- **Spring Boot 4.1.0**
 - **Spring Data REST** (auto-exposed RESTful APIs with HATEOAS)
 - **Spring Data MongoDB**
 - **Local/Public Cloud MongoDB**
