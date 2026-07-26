@@ -4,7 +4,7 @@ spring:
 
   mongodb:
     host: localhost
-    port: 13500
+    port: 27017
     database: eca
     username: <your-username>
     password: <your-password>
