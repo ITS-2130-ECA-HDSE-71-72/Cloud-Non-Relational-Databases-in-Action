@@ -1,0 +1,7 @@
+spring:
+
+  mongodb:
+   uri: mongodb+srv://root:mongodb@eca.vnljmcu.mongodb.net/?appName=eca
+   database: eca
+
+

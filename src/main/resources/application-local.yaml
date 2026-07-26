@@ -1,0 +1,11 @@
+spring:
+
+  mongodb:
+    host: localhost
+    port: 12500
+    database: eca
+#    username: <your-username>
+#    password: <your-password>
+    authentication-database: admin
+
+

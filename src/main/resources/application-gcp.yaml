@@ -1,0 +1,7 @@
+spring:
+
+  mongodb:
+   uri: mongodb://root:4xssAnGi3USS-0SGnr9SpTAkv89bbqKDN2g-0-rVkdAbbS2_@f5c4c0a4-165b-42e7-8ee5-8ece74462d8c.asia-southeast1.firestore.goog:443/eca-mongo?loadBalanced=true&tls=true&authMechanism=SCRAM-SHA-256&retryWrites=false
+#   database: eca
+
+
