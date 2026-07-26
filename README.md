@@ -65,7 +65,7 @@ Spring Data REST automatically exposes the following HATEOAS-compliant endpoints
 
 A Postman collection is available for testing the API endpoints:
 
-[Cloud Non-Relational Databases in Action - Postman Collection](https://www.postman.com/ijse-eca-5768309/workspace/eca-69-70/collection/47280517-dd6dd310-a00c-4157-b237-e977b8c6d1d8?action=share&creator=47280517)
+[Cloud Non-Relational Databases in Action - Postman Collection](https://www.postman.com/ijse-eca-5768309/workspace/eca-71-72/collection/47280517-e1ff2ba3-39ff-4337-ab79-33ac37d85d58?action=share&source=copy-link&creator=47280517)
 
 ## Need Help?
 
